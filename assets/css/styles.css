@@ -36,7 +36,7 @@ a {
   border-radius: 999px;
   line-height: 60px;
   text-align: center;
-  font-size: 18px;
+  font-size: 1.8rem;
   font-weight: 400;
 }
 
@@ -46,7 +46,7 @@ a {
 
 .section-heading {
   font-weight: 600;
-  font-size: 50px;
+  font-size: 5rem;
   line-height: 1.2;
   letter-spacing: -0.02em;
   color: #10375c;
@@ -58,7 +58,7 @@ a {
   width: 468px;
   margin-top: 18px;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 1.8rem;
   line-height: 1.67;
   color: #575f66;
 }
@@ -79,7 +79,7 @@ a {
 
 .logo {
   display: inline-flex;
-  /* font-size: 1rem; */
+  font-size: 1rem;
 }
 
 .logo__image {
@@ -112,7 +112,7 @@ a {
 .logo__branch {
   display: block;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 1.8em;
   color: #ffffff;
 }
 
@@ -132,7 +132,7 @@ a {
   align-items: center;
   padding: 4px 21px;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 1.6rem;
   line-height: 1.75;
   text-align: center;
   color: #c9d2da;
@@ -167,7 +167,7 @@ a {
   line-height: 44px;
   padding: 0 19px;
   height: 44px;
-  font-size: 16px;
+  font-size: 1.6rem;
 }
 
 /* ==============hero=================== */
@@ -190,7 +190,7 @@ a {
 
 .hero__heading {
   font-weight: 600;
-  font-size: 70px;
+  font-size: 7rem;
   line-height: 1.14;
   color: #ffffff;
 }
@@ -210,13 +210,13 @@ a {
 }
 
 .hero__bookonline {
-  font-size: 18px;
+  font-size: 1.8rem;
 }
 
 .hero__phone {
   margin-left: 38px;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 1.6rem;
   line-height: 1.67;
   text-align: center;
   color: #ffffff;
@@ -311,14 +311,14 @@ a {
 
 .service-item__heading {
   font-weight: 600;
-  font-size: 18px;
+  font-size: 1.8rem;
   color: #10375c;
 }
 
 .service-item__desc {
   margin-top: 8px;
   font-weight: 300;
-  /* font-size: 1.6rem; */
+  font-size: 1.6rem;
   color: #575f66;
   line-height: 1.75;
 }
